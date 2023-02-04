@@ -62,31 +62,31 @@
 }
 
 .main-part li.item1 .bg{
-  background: url(images/1.jpg);
+  background: url(1.jpg);
   background-size: cover;
   background-position: center;
  } 
 
 .main-part li.item2 .bg{
-  background: url(Images/2.jpg);
+  background: url(2.jpg);
   background-size: cover;
   background-position: center;
  } 
 
  .main-part li.item3 .bg{
-  background: url(images/3.jpg);
+  background: url(3.jpg);
   background-size: cover;
   background-position: center;
  } 
 
  .main-part li.item4 .bg{
-  background: url(images/4.jpg);
+  background: url(4.jpg);
   background-size: cover;
   background-position: center;
  } 
 
  .main-part li.item5 .bg{
-  background: url(images/5.jpg);
+  background: url(5.jpg);
   background-size: cover;
   background-position: center;
  } 
@@ -97,19 +97,3 @@
   margin-top: 20px;
   
  }
-
- @media only screen and (max-width: 769px){
-  .main-part li{
-    position: absolute;
-    margin-bottom: 20000px;
-
-
-}
-
-@media only screen and (max-width: 643px){
-.main-part li..item1 .bg{
-width: 100%;
-}
-
-
-}
